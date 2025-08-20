@@ -47,12 +47,12 @@ The main goal is to eliminate manual verification, reduce human error, and drama
 
 ```bash
 # Clone this repository
-$ git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+$ git clone [https://github.com/bruno272025/-Automated-Expense-Reimbursement-Bot-RPA-OCR-.git)
 
 # Navigate to the project directory
-$ cd seu-repositorio
+$ cd -Automated-Expense-Reimbursement-Bot-RPA-OCR-
 
 # Install the dependencies
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 
 # Place your 'credentials.json' file in the root of the project.
